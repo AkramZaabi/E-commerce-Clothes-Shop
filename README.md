@@ -1,6 +1,6 @@
 # E-Commerce Clothes Shop
 
-An e-commerce platform for buying and selling clothes, built with a Vue.js front-end and a back-end API. The project includes essential features like user authentication, product management, and a shopping cart.
+An e-commerce platform for buying and selling clothes, built with a Vue.js front-end and a back-end API using native PHP. The project includes essential features like user authentication, product management, and a shopping cart.
 
 ---
 
@@ -12,12 +12,6 @@ An e-commerce platform for buying and selling clothes, built with a Vue.js front
    - [Front-End Setup](#front-end-setup)
    - [Back-End Setup](#back-end-setup)
    - [Database Setup](#database-setup)
-3. [Usage](#usage)
-4. [Technologies Used](#technologies-used)
-5. [Screenshots](#screenshots)
-6. [Contributing](#contributing)
-7. [License](#license)
-8. [Contact](#contact)
 
 ---
 
