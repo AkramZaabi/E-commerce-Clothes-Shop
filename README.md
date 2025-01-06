@@ -55,3 +55,14 @@ Before starting, ensure you have the following installed on your system:
 2. **Install Dependencies**
     ```bash
    npm install
+3. **Run the Development Server**
+   Start the Vue.js application with hot reload:
+   ```bash
+   npm run serve
+
+### Start the Local Server
+
+1. Open the **XAMPP Control Panel** (or **WAMP Control Panel** if using WAMP).
+2. Start the **Apache** and **MySQL** services.
+   - Click on the **Start** button next to both Apache and MySQL to start the server and the database.
+   - The local server will be running, and you can access your application via `http://localhost`.
